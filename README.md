@@ -4,4 +4,4 @@
 
 Convert the app data in the ViewModel to LiveData and observe the changes to update the UI automatically. 
 
-<a href="https://developer.android.com/courses/pathways/android-development-with-kotlin-8#codelab-https://developer.android.com/codelabs/basic-android-kotlin-training-viewmodel">Link Colab</a>
+<a href="https://developer.android.com/codelabs/basic-android-kotlin-training-livedata?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-development-with-kotlin-8%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-livedata#13">Link Colab</a>
